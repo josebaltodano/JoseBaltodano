@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy José Augusto Baltodano Somoza</h1>
+<h3 align="center">Apasionado por el desarrollo de software y la tecnología</h3>
 
-<!--
-**josebaltodano/JoseBaltodano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mí
+- 🧑‍💻 **Usuario de GitHub:** `josebaltodano`  
+- 📧 **Correo de contacto:** **jose.baltodano935@gmail.com**  
+- 💡 Me gusta aprender nuevas tecnologías y trabajar en proyectos que resuelvan problemas reales.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologías que utilizo
+
+#### 💻 **Backend & APIs**
+- Node.js  
+- C# (.NET / APIs REST)  
+- SQL Server  
+- MongoDB  
+- Firebase (Auth, Firestore, Realtime DB, Hosting)
+
+#### 📱 **Frontend & Mobile**
+- Flutter  
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josebaltodano&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📈 Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebaltodano&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Cómo contactarme
+
+- 📧 **Email:** jose.baltodano935@gmail.com  
+- 💻 Perfil de GitHub: [github.com/josebaltodano](https://github.com/josebaltodano)
+
+---
+
+### ⭐ Gracias por visitar mi perfil
+
+Si te gusta alguno de mis proyectos, no dudes en dejar una ⭐ o contactarme para colaborar.
